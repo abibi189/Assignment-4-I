@@ -1,0 +1,25 @@
+/*
+Theme Name:     assignment4
+Description:    childtheme for assignment4
+Author:         Alia Bibi
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+body {
+    font-family:'Montserrat', sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif; 
+
+}
+
+
+footer{
+	background: #ffffff;
+	color:black;
+}
